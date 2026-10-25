@@ -1,0 +1,22 @@
+FALAHI BLOOM — SOURCE AUDIT
+============================
+Total individual app records: 485 (v2: 450)
+
+deir_dibwan_source: 28
+user_flashcards: 33
+palestinian_reference: 68
+levantine_reference: 322
+chifak_draft: 34
+
+WHAT IS COVERED
+- The previously imported vocabulary from Chifak, personal flashcards, Palestinian research, and PDF headwords is preserved.
+- The 32 originally submitted household card concepts remain, mapped to 33 entries because "pillow" has two forms.
+- The source feminine introduction sentence form is added explicitly.
+- Chifak situational expressions were labeled DRAFT by their author. 34 extra distinct forms are included in their own labeled category; two were already in the app (the 38 source occurrences contain repeats).
+- Two exact duplicate PDF uploads are not counted twice.
+
+WHAT IS NOT CLAIMED
+- This is not every inflection, plural, and phrase printed anywhere in the PDF documents. Primary reference headwords are imported; some alternate forms are not independent records.
+- The 16 sentence exercises and 3 dialogue scenes from Chifak are not reproduced verbatim. The app uses independently authored practice.
+- Broader Levantine dictionary entries are not certified Deir Dibwan Falahi.
+- Completing this app alone does not guarantee fluency. A five-month intensive program requires real speaking and feedback.

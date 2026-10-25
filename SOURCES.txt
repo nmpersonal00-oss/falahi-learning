@@ -1,0 +1,23 @@
+SOURCES & VERIFICATION
+* User's Chifak captured study JSON (reference only): https://chifak.com/
+* User's family vocabulary flashcards (original image supplied; app does NOT reuse imagery).
+* Ahmed KMAIL (user supplied): House.pdf, Clothing.pdf, Family.pdf, Adjectives(1).pdf, daily_phrases.pdf — explicitly titled "The colloquial Levantine dialect"; local Falahi usage unconfirmed.
+* Palestinian animals vocabulary reference: https://resources.lingualism.com/levantine-arabic/animals-3/
+* Palestinian frequency / common words resource: https://tfaddalu.com/tools/palestinian-arabic-frequency-list
+* Palestinian language variation: https://en.wikipedia.org/wiki/Palestinian_Arabic
+* Further linguistic reading: Maknuune — a large open Palestinian Arabic lexicon: https://arxiv.org/abs/2210.12985
+
+The original game activities, voice practice prompts, user interface and illustrations are newly authored. No original Chifak audio or lesson scripts are included. The game sentence prompts are introductory constructions, not a dialect proofing authority.
+
+App v2: 12 original grammar chapters and 9 original scripted role-play scenes, including 36 grammar checks and 27 response challenges. App v2 grammar chapters: original brief practice examples created from the supplied Chifak family vocabulary and user-provided Ahmed KMAIL Levantine worksheets plus widespread regional patterns. Not a native-speaker validation of Deir Dibwan pronunciation.
+
+Photograph (on home only, loaded directly from Wikimedia Commons when online, not repackaged): Dome of the Rock and Al-Aqsa Mosque, Sarah Ferguson, 2009, via Institute for the Study of the Ancient World, Creative Commons Attribution 2.0. https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_and_Al-Aqsa_Mosque_(5704606782).jpg | https://creativecommons.org/licenses/by/2.0/
+
+VERSION 3 — ADDITIONS (2026-10-25)
+- Source Chifak feminine introduction form from sentence practice added as a standalone entry.
+- Situational expressions explicitly marked DRAFT/UNCONFIRMED in Chifak were collected as separate labeled practice/reference entries; do not mistake them for native-verified Deir Dibwan forms.
+- Study scheduling draws on empirical research on spaced second-language practice: https://doi.org/10.1111/lang.12479
+- Oral task repetition evidence: https://www.sciencedirect.com/science/article/pii/S0346251X25002787
+- Explicit grammar instruction evidence: https://onlinelibrary.wiley.com/doi/10.1111/flan.12726
+- These studies support practice strategies, not a guarantee of five-month fluency.
+- All UI sound effects are original, procedurally generated Web Audio (no third-party sound files).

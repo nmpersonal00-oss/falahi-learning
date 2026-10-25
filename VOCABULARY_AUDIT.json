@@ -1,0 +1,34 @@
+{
+  "version": "3.0",
+  "total_entries": 485,
+  "source_counts": {
+    "deir_dibwan_source": 28,
+    "user_flashcards": 33,
+    "palestinian_reference": 68,
+    "levantine_reference": 322,
+    "chifak_draft": 34
+  },
+  "previous_version_entries": 450,
+  "new_village_gender_form": 1,
+  "new_unverified_draft_expressions": 34,
+  "chifak_draft_source_forms_total": 38,
+  "chifak_draft_distinct_forms": 36,
+  "draft_skipped_already_in_vocabulary": [
+    "الحمد لله",
+    "الله يسلمتش",
+    "الله يسلمك",
+    "مع السلامة"
+  ],
+  "user_original_flashcards": 32,
+  "user_entries_in_app": 33,
+  "duplicate_pdf_files_excluded": [
+    "Adjectives copy.pdf",
+    "Family copy.pdf"
+  ],
+  "caveats": [
+    "Full PDF rows are covered at the main/headword level; plural and alternate forms printed in parentheses are not each independent flashcards",
+    "The original Chifak dialogues and sentence-building exercises are not imported verbatim as a copyrighted curriculum; original app dialogue exercises remain",
+    "Draft Chifak expressions are labeled unconfirmed. The wider regional references have not been independently verified for Deir Dibwan",
+    "No real human speech or automated accurate pronunciation scoring is included. Local UI sounds are not speech audio."
+  ]
+}

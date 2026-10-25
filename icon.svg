@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Falahi Bloom tulip bunny app icon">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4e7"/><stop offset=".45" stop-color="#f3bfcf"/><stop offset="1" stop-color="#b9a6cf"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#fffaf3" stop-opacity=".94"/><stop offset="1" stop-color="#fff0f5" stop-opacity="0"/></radialGradient>
+<linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#fae7ed"/></linearGradient>
+<linearGradient id="ear" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#ffd9e6"/><stop offset="1" stop-color="#e8b2cb"/></linearGradient>
+<linearGradient id="petal" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffd9e4"/><stop offset=".55" stop-color="#f29bb8"/><stop offset="1" stop-color="#c66f9b"/></linearGradient>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="13"/></filter>
+</defs>
+<rect x="8" y="8" width="496" height="496" rx="117" fill="url(#bg)" stroke="#925e85" stroke-width="13"/>
+<rect x="26" y="25" width="460" height="460" rx="102" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="7"/>
+<ellipse cx="250" cy="110" rx="217" ry="120" fill="url(#halo)"/>
+<path d="M59 110Q208 15 450 90" stroke="white" stroke-width="30" opacity=".31" fill="none" stroke-linecap="round"/>
+<ellipse cx="246" cy="417" rx="147" ry="29" fill="#654057" opacity=".19" filter="url(#shadow)"/>
+<g transform="rotate(-7 256 260)">
+ <path d="M187 191Q109 25 153 54Q209 88 222 170M290 170Q334 16 369 56Q384 113 318 191" stroke="#a87894" stroke-width="12" fill="url(#fur)" stroke-linejoin="round"/>
+ <path d="M185 163Q153 91 159 90Q198 120 205 169M302 165Q344 88 356 94Q356 127 320 169" fill="url(#ear)"/>
+ <ellipse cx="256" cy="288" rx="155" ry="141" fill="url(#fur)" stroke="#b68ba2" stroke-width="12"/>
+ <ellipse cx="195" cy="278" rx="13" ry="18" fill="#66475d"/>
+ <ellipse cx="315" cy="278" rx="13" ry="18" fill="#66475d"/>
+ <circle cx="172" cy="310" r="28" fill="#f6bdcf" opacity=".7"/>
+ <circle cx="341" cy="310" r="28" fill="#f6bdcf" opacity=".7"/>
+ <path d="M245 320Q257 307 268 321Q258 336 245 320" fill="#d68ca8"/>
+ <path d="M256 329Q239 349 223 330M256 329Q274 349 290 330" fill="none" stroke="#9b6a85" stroke-width="6" stroke-linecap="round"/>
+ <ellipse cx="185" cy="273" rx="4" ry="7" fill="white" opacity=".75"/>
+ <ellipse cx="306" cy="272" rx="4" ry="7" fill="white" opacity=".75"/>
+</g>
+<g transform="translate(354 34) rotate(18 65 70)">
+ <path d="M67 156Q59 105 60 80" stroke="#7da58e" stroke-width="9" fill="none" stroke-linecap="round"/>
+ <path d="M63 129Q17 94 17 108Q16 136 65 144M69 126Q103 94 115 104Q118 126 69 144" fill="#91b7a0"/>
+ <path d="M32 68Q37 33 53 15Q66 35 75 49Q82 23 98 9Q114 43 104 77Q70 108 41 88Z" fill="url(#petal)" stroke="#b76993" stroke-width="5"/>
+ <path d="M51 42Q62 35 69 56M89 36Q83 51 82 63" stroke="#ffe5ed" stroke-width="6" stroke-linecap="round" fill="none"/>
+</g>
+<path d="m82 115 10-27 10 27 27 10-27 10-10 27-10-27-27-10Z" fill="#fff6df" opacity=".9"/>
+<circle cx="423" cy="374" r="7" fill="#fff7e6" opacity=".94"/>
+</svg>
